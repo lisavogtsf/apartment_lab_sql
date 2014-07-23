@@ -1,4 +1,4 @@
-# Apartment lab
+# Lisa Vogt's Apartment lab
 
 - Create a database called apartmentlab 
 - Using this database, create two tables, one for owners and one for properties

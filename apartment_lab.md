@@ -1,8 +1,8 @@
 # Lisa Vogt's Apartment lab
 
-- Create a database called apartmentlab 
-- Using this database, create two tables, one for owners and one for properties
-- Keep this relationship in mind when designing your schema:
+- ☑️Create a database called apartmentlab 
+- ☑️Using this database, create two tables, one for owners and one for properties
+- ☑️Keep this relationship in mind when designing your schema:
 	+ **One owner can have many properties**
 
 ###Tables
@@ -19,7 +19,7 @@
 		+ There should be also be a foreign key that references the owners table
 
 ###Questions
-Write down the following sql statements that are required to solve the following tasks.
+☑️Write down the following sql statements that are required to solve the following tasks.
 
 ```    
 1. Show all the tables.
